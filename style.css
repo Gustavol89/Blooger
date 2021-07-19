@@ -1,0 +1,75 @@
+/* todo o conteudo da pagina */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* ID */
+#logo{
+    float: left;
+    height: 200px;
+    width: 230px;
+
+}
+#formulario{
+    align-items: center;
+    padding: 50px;
+
+}
+#qsbody{
+    background-color: #bfbfbf;
+}
+
+#tituloqs{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    font-size: 18px;
+    color: #000000;
+    text-align: center;
+    text-shadow: 5px;
+}
+#footer{
+    padding: 20px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: #000000;
+    background-color: #bfbfbf;
+
+}
+
+#menu{
+    float: inherit;
+    background-color: #999999;
+    padding: 91px;
+}
+#menu a{
+    text-decoration: none;
+    padding: 14px;
+    color: #ffffff;
+    margin: 80px;
+    max-width: 300px;
+    
+}
+#menu a:hover{
+    color: #262626;
+}
+
+/* classes */
+.titulo{
+    text-align: center;
+    color: #1a1a1a;
+    margin: 10px;
+}
+.titulo2{
+    color: #1a1a1a;
+    text-align: center;
+}
+.img{
+    float: left;
+    width: 15%;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+}
+    
